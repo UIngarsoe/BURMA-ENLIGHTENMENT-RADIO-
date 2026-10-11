@@ -120,7 +120,7 @@
  └─► စီမံခန့်ခွဲမှု ပိတ်ဆို့၍ တော်လှန်ရေး ကြာမြင့်မည်        └─► တော်လှန်ရေး အရှိန်အဟုန် ပိုမိုမြန်ဆန်မည်
 
 
-## 🦚🥷 ဦးအင်္ဂါစိုး အယ်ဒီတာချုပ် ဗမာလူထု အသိဥာဏ်​တော် ဂျာနယ် အမှတ် ၈၃
+### 🦚🥷 ဦးအင်္ဂါစိုး အယ်ဒီတာချုပ် ဗမာလူထု အသိဥာဏ်​တော် ဂျာနယ် အမှတ် ၈၃
 MIT Licensed Algorithm October 11th 2026.
 
 
@@ -128,13 +128,13 @@ MIT Licensed Algorithm October 11th 2026.
 
 🦚 Strategic Morning Briefing for Bamar Public Leaders & Executives (🦚 Bamar Civil Intelligence Journal Issue 83)
 
-## Title: Beyond Institutional Inertia: Evolving Geopolitics, Practical Strategy, and the Imperative of Revolutionary Leadership Reform
+### Title: Beyond Institutional Inertia: Evolving Geopolitics, Practical Strategy, and the Imperative of Revolutionary Leadership Reform
 
 #### Target Audience: Bamar Enlightenment Community (BEJ Community), Policymakers, Civil Society Organizations, and Revolutionary Leaders
 
 Publication: BEJ 83 Morning Enlightenment Journal (English Edition)
 
-## 📌 Executive Summary
+### 📌 Executive Summary
 
 Over five years into the Spring Revolution, Myanmar's resistance movement has reached a critical strategic crossroads.
 
@@ -144,7 +144,7 @@ Major international powers are prioritizing practical geopolitical interests (Re
 
 To prevent strategic stagnation and safeguard domestic and foreign diplomatic advantages, revolutionary leadership bodies—including the National Unity Government (NUG)—must urgently transition from insular management structures to an accountable, strategically agile, and transparent institutional system.
 
-## 1. Geopolitical Shifts and International Realpolitik
+### 1. Geopolitical Shifts and International Realpolitik
 
 International diplomatic stances regarding Myanmar affairs are shifting from simple sympathy to calculated geopolitical realism.
 International Sanctions and Policy Shifts
@@ -156,7 +156,7 @@ Global powers will not passively wait out the difficulties of the revolution.
 
 If revolutionary leadership bodies fail to present a concrete, effective governing alternative, foreign powers will actively seek practical engagements with other influential forces on the ground.
 
-## 2. Advocacy Bottlenecks and Civil Society Challenges
+### 2. Advocacy Bottlenecks and Civil Society Challenges
 
 Veteran human rights defenders and civil society organizations continue relentless international-level diplomatic lobbying, yet a major gap persists regarding execution by top leadership.
 
@@ -169,7 +169,7 @@ Entering the five-year mark, public endurance and the unconditional trust of civ
 
 Securing continued domestic and international support requires tangible management milestones, merit-based decision-making, and firm institutional accountability.
 
-## 3. Core Strategic Imperatives for Revolutionary Leaders
+### 3. Core Strategic Imperatives for Revolutionary Leaders
 
 To achieve core revolutionary objectives and ensure long-term sustainability, leadership must urgently execute three main structural shifts:
 1. Internal Self-Correction Over Blame
@@ -185,7 +185,7 @@ How can civil society organizations drive systematic reforms within NUG ministri
 
 After five years of revolution, what specific performance metrics should domestic and international supporters demand from leadership to ensure accountability?
 
-## Logic Map 1: Geopolitics and Institutional Challenges (Problem & Cause Logic Map)
+### Logic Map 1: Geopolitics and Institutional Challenges (Problem & Cause Logic Map)
 
 [Core Consequence / Situation]
 │
@@ -202,7 +202,7 @@ After five years of revolution, what specific performance metrics should domesti
 ├─► (Cause) Lack of systematic channels to accept external strategic advice
 └─► (Cause) Blaming setbacks on external enemies while failing to self-correct
 
-## Logic Map 2: Strategic Reform Pathways (Strategic Solution & Outcome Logic Map)
+### Logic Map 2: Strategic Reform Pathways (Strategic Solution & Outcome Logic Map)
 
 [Core Solutions / Actionable Processes]
 │
@@ -218,7 +218,7 @@ After five years of revolution, what specific performance metrics should domesti
 ├─► (Action) Demonstrating capability in managing security, trade, and regional stability
 └─► (Outcome) Securing long-term international diplomatic and economic backing
 
-## Logic Map 3: BEJ 83 Policy Decision Tree (Decision Tree Logic Map)
+### Logic Map 3: BEJ 83 Policy Decision Tree (Decision Tree Logic Map)
 
 [NUG / Revolutionary Leadership]
 │
@@ -230,5 +230,5 @@ After five years of revolution, what specific performance metrics should domesti
 ├─► International actors engage other groups        ├─► Strong international support secured
 └─► Prolonged administrative bottlenecks            ├─► Accelerated revolutionary momentum
 
-## 🦚🥷 U Ingar Soe, Editor-in-Chief — Bamar Civil Intelligence Journal Issue 83
+### 🦚🥷 U Ingar Soe, Editor-in-Chief — Bamar Civil Intelligence Journal Issue 83
 MIT Licensed Algorithm, October 11, 2026.
